@@ -1,0 +1,13 @@
+C:\Workspace\Programação\DigitalInnovationOne\bin\Debug\netcoreapp3.1\DigitalInnovationOne.exe
+C:\Workspace\Programação\DigitalInnovationOne\bin\Debug\netcoreapp3.1\DigitalInnovationOne.deps.json
+C:\Workspace\Programação\DigitalInnovationOne\bin\Debug\netcoreapp3.1\DigitalInnovationOne.runtimeconfig.json
+C:\Workspace\Programação\DigitalInnovationOne\bin\Debug\netcoreapp3.1\DigitalInnovationOne.runtimeconfig.dev.json
+C:\Workspace\Programação\DigitalInnovationOne\bin\Debug\netcoreapp3.1\DigitalInnovationOne.dll
+C:\Workspace\Programação\DigitalInnovationOne\bin\Debug\netcoreapp3.1\DigitalInnovationOne.pdb
+C:\Workspace\Programação\DigitalInnovationOne\obj\Debug\netcoreapp3.1\DigitalInnovationOne.csprojAssemblyReference.cache
+C:\Workspace\Programação\DigitalInnovationOne\obj\Debug\netcoreapp3.1\DigitalInnovationOne.AssemblyInfoInputs.cache
+C:\Workspace\Programação\DigitalInnovationOne\obj\Debug\netcoreapp3.1\DigitalInnovationOne.AssemblyInfo.cs
+C:\Workspace\Programação\DigitalInnovationOne\obj\Debug\netcoreapp3.1\DigitalInnovationOne.csproj.CoreCompileInputs.cache
+C:\Workspace\Programação\DigitalInnovationOne\obj\Debug\netcoreapp3.1\DigitalInnovationOne.dll
+C:\Workspace\Programação\DigitalInnovationOne\obj\Debug\netcoreapp3.1\DigitalInnovationOne.pdb
+C:\Workspace\Programação\DigitalInnovationOne\obj\Debug\netcoreapp3.1\DigitalInnovationOne.genruntimeconfig.cache
